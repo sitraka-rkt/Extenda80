@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Extenda';
+  src: url('./fonts/mabelle.woff2') format('woff2'),
+       url('./fonts/mabelle.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Extenda', Lato, sans-serif;
+}
